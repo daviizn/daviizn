@@ -1,5 +1,5 @@
 ## Oi eu sou o Davi Serra, um futuro software engineer! 👨🏻‍💻
-Sou um estudante de Ciencias da Computação, focado em programação Back-end.
+Sou um estudante de Ciências da Computação, focado em programação Back-end.
 
   ## Estou aprendendo :
 <div style="display: inline_block"><br>
